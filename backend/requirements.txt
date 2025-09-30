@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+PyYAML
+langchain
+langchain-community
+langchain-ollama
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+ollama 

@@ -1,0 +1,127 @@
+# Arquivo de perguntas para o Exame de Consciência, baseado nos Dez Mandamentos.
+# As perguntas foram reescritas para serem claras e diretas, facilitando a interpretação.
+
+perguntas:
+  # 1º Mandamento: Amar a Deus sobre todas as coisas
+  - id: M1-01
+    categoria: "1º Mandamento: Amar a Deus"
+    texto: "Deixei de fazer minhas orações diárias (manhã/noite) por preguiça ou esquecimento?"
+  - id: M1-02
+    categoria: "1º Mandamento: Amar a Deus"
+    texto: "Neguei ou disse que não acreditava em alguma verdade da fé católica (como a existência de Deus, a divindade de Jesus, a Eucaristia, etc.)?"
+  - id: M1-03
+    categoria: "1º Mandamento: Amar a Deus"
+    texto: "Tive vergonha de demonstrar minha fé em público (fazer o sinal da cruz, defender um ensinamento, etc.) por medo do que os outros iriam pensar?"
+  - id: M1-04
+    categoria: "1º Mandamento: Amar a Deus"
+    texto: "Busquei orientação ou participei de práticas como espiritismo, cartomancia, búzios, horóscopo, reiki ou outras formas de adivinhação e superstição?"
+  - id: M1-05
+    categoria: "1º Mandamento: Amar a Deus"
+    texto: "Desesperei da misericórdia de Deus, achando que meus pecados eram grandes demais para serem perdoados?"
+  - id: M1-06
+    categoria: "1º Mandamento: Amar a Deus"
+    texto: "Pequei pensando 'Deus perdoa tudo, então posso pecar agora e me confessar depois'?"
+  - id: M1-07
+    categoria: "1º Mandamento: Amar a Deus"
+    texto: "Falei mal ou com desprezo da Igreja, de padres, religiosos ou do Papa?"
+
+  # 2º Mandamento: Não jurar seu Santo Nome em vão
+  - id: M2-01
+    categoria: "2º Mandamento: Honrar o Nome de Deus"
+    texto: "Usei o nome de Deus, de Jesus, de Maria ou dos santos de forma irreverente, em piadas, ou como uma exclamação de raiva ou surpresa?"
+  - id: M2-02
+    categoria: "2º Mandamento: Honrar o Nome de Deus"
+    texto: "Disse palavras de ofensa, raiva ou desprezo contra Deus, a Virgem Maria, os santos ou a Igreja (blasfêmia)?"
+  - id: M2-03
+    categoria: "2º Mandamento: Honrar o Nome de Deus"
+    texto: "Deixei de cumprir uma promessa que fiz a Deus ou a algum santo?"
+
+  # 3º Mandamento: Guardar domingos e festas de guarda
+  - id: M3-01
+    categoria: "3º Mandamento: Guardar os Dias Santos"
+    texto: "Faltei à Missa aos domingos ou em dias santos de guarda por preguiça ou por ter preferido fazer outra coisa?"
+  - id: M3-02
+    categoria: "3º Mandamento: Guardar os Dias Santos"
+    texto: "Tive um comportamento desrespeitoso na Igreja, conversando, rindo, usando o celular ou distraindo os outros?"
+  - id: M3-03
+    categoria: "3º Mandamento: Guardar os Dias Santos"
+    texto: "Trabalhei ou fiz outros trabalharem sem necessidade aos domingos, impedindo o descanso e a dedicação a Deus e à família?"
+
+  # 4º Mandamento: Honrar pai e mãe
+  - id: M4-01
+    categoria: "4º Mandamento: Honrar Pai e Mãe"
+    texto: "Faltei com o respeito aos meus pais, respondendo mal, com grosseria, desprezo ou gritando com eles?"
+  - id: M4-02
+    categoria: "4º Mandamento: Honrar Pai e Mãe"
+    texto: "Causei tristeza ou grande preocupação aos meus pais de propósito com meu comportamento?"
+  - id: M4-03
+    categoria: "4º Mandamento: Honrar Pai e Mãe"
+    texto: "Deixei de ajudar meus pais em suas necessidades (financeiras, de saúde, companhia, etc.), especialmente na velhice?"
+
+  # 5º Mandamento: Não matar
+  - id: M5-01
+    categoria: "5º Mandamento: Preservar a Vida"
+    texto: "Briguei com alguém a ponto de agredir verbal ou fisicamente?"
+  - id: M5-02
+    categoria: "5º Mandamento: Preservar a Vida"
+    texto: "Guardei raiva, ódio ou rancor de alguém, recusando-me a perdoar?"
+  - id: M5-03
+    categoria: "5º Mandamento: Preservar a Vida"
+    texto: "Incentivei ou ensinei alguém a pecar através de minhas palavras, ações ou exemplos (escândalo)?"
+  - id: M5-04
+    categoria: "5º Mandamento: Preservar a Vida"
+    texto: "Prejudiquei minha saúde de propósito através de excessos (comida, bebida), uso de drogas, ou descuido perigoso com meu corpo?"
+  - id: M5-05
+    categoria: "5º Mandamento: Preservar a Vida"
+    texto: "Defendi, aconselhei ou facilitei um aborto de alguma forma?"
+
+  # 6º e 9º Mandamentos: Guardar a Castidade
+  - id: M6-01
+    categoria: "6º e 9º Mandamentos: Guardar a Castidade"
+    texto: "Alimentei de propósito pensamentos ou desejos impuros sobre mim mesmo ou sobre outras pessoas?"
+  - id: M6-02
+    categoria: "6º e 9º Mandamentos: Guardar a Castidade"
+    texto: "Assisti a vídeos ou vi sites pornográficos?"
+  - id: M6-03
+    categoria: "6º e 9º Mandamentos: Guardar a Castidade"
+    texto: "Participei de conversas, ouvi ou contei piadas com conteúdo sexual ou imoral?"
+  - id: M6-04
+    categoria: "6º e 9º Mandamentos: Guardar a Castidade"
+    texto: "Cometi atos impuros comigo mesmo (masturbação)?"
+  - id: M6-05
+    categoria: "6º e 9º Mandamentos: Guardar a Castidade"
+    texto: "Tive relações sexuais com alguém sem ser casado(a) na Igreja?"
+  - id: M6-06
+    categoria: "6º e 9º Mandamentos: Guardar a Castidade"
+    texto: "Como casado(a), usei métodos contraceptivos artificiais (pílula, DIU, preservativo, etc.) para evitar filhos?"
+
+  # 7º e 10º Mandamentos: Não Furtar e Não Cobiçar
+  - id: M7-01
+    categoria: "7º e 10º Mandamentos: Ser Justo e Honesto"
+    texto: "Roubei ou furtei algum objeto ou dinheiro de alguém ou de alguma empresa?"
+  - id: M7-02
+    categoria: "7º e 10º Mandamentos: Ser Justo e Honesto"
+    texto: "Enganei alguém em um negócio, venda ou trabalho, cobrando a mais, entregando a menos ou usando de má fé?"
+  - id: M7-03
+    categoria: "7º e 10º Mandamentos: Ser Justo e Honesto"
+    texto: "Fui ganancioso ou gastei dinheiro de forma excessiva e egoísta, esquecendo minhas responsabilidades com a família, os pobres e a Igreja?"
+  - id: M7-04
+    categoria: "7º e 10º Mandamentos: Ser Justo e Honesto"
+    texto: "Senti inveja ou um desejo descontrolado de possuir as coisas de outra pessoa?"
+  - id: M7-05
+    categoria: "7º e 10º Mandamentos: Ser Justo e Honesto"
+    texto: "Deixei de pagar minhas dívidas ou o salário justo de um funcionário por negligência?"
+
+  # 8º Mandamento: Não levantar falso testemunho
+  - id: M8-01
+    categoria: "8º Mandamento: Falar a Verdade"
+    texto: "Menti para me beneficiar, para prejudicar alguém ou para esconder uma falta?"
+  - id: M8-02
+    categoria: "8º Mandamento: Falar a Verdade"
+    texto: "Falei mal de outras pessoas, espalhando seus defeitos ou erros para outros (fofoca)?"
+  - id: M8-03
+    categoria: "8º Mandamento: Falar a Verdade"
+    texto: "Inventei uma mentira sobre alguém para prejudicar sua reputação (calúnia)?"
+  - id: M8-04
+    categoria: "8º Mandamento: Falar a Verdade"
+    texto: "Julguei mal as intenções de outra pessoa, pensando o pior dela sem ter provas?"

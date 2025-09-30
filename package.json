@@ -1,0 +1,20 @@
+{
+  "name": "projeto-exame-consciencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:frontend": "cd frontend && pnpm run dev",
+    "dev:backend": "cd backend && .\\venv\\Scripts\\activate && flask --app api_server run --port=5000",
+    "open:browser": "delay 5 && open-cli http://localhost:3000",
+    "dev": "concurrently \"pnpm run dev:backend\" \"pnpm run dev:frontend\" \"pnpm run open:browser\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "delay-cli": "^2.0.0",
+    "open-cli": "^8.0.0"
+  }
+}

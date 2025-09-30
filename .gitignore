@@ -1,0 +1,21 @@
+# Arquivos de ambiente e dependências do Python
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente e dependências do Node.js
+frontend/node_modules/
+frontend/.next/
+node_modules/
+pnpm-lock.yaml
+
+# Dados gerados pelo usuário e arquivos temporários
+# Estes arquivos NUNCA devem ir para o GitHub para proteger a privacidade
+respostas.yaml
+prompt_para_llm.txt
+progress.db
+analysis.lock
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
