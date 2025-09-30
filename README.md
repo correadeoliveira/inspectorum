@@ -109,3 +109,11 @@ O backend e o frontend serão iniciados, e seu navegador abrirá automaticamente
 * **Backend (Flask):** Serve uma API local que gerencia o estado do exame, executa as duas análises de LLM (a textual e a de classificação), salva os dados no SQLite e processa as perguntas para o sistema RAG.
 * **Frontend (Next.js):** Constrói a interface do usuário, incluindo o chatbot e o dashboard, e se comunica com a API Flask para buscar e enviar dados.
 * **Fluxo de Dados:** O exame começa lendo o `perguntas.yaml`. As respostas são salvas em `respostas.yaml`. A análise de progresso é salva em `progress.db`, que por sua vez alimenta o dashboard. O chat RAG consulta o índice `faiss_index_mistral` para responder às perguntas.
+  
+## 🤝 Como Contribuir
+
+Consulte o nosso guia de contribuição em [`CONTRIBUTING.md`](./CONTRIBUTING.md) para saber como você pode ajudar a melhorar o Inspectorum.
+
+## 📄 Licença
+
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo [`LICENSE`](./LICENSE) para mais detalhes.
